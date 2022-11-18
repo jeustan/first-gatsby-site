@@ -3,6 +3,14 @@
     max-width: 500px;
     font-family: sans-serif;
 }
+
+.site-title {
+    font-size: 3rem;
+    color: gray;
+    font-weight: 500;
+    margin: 3rem 0;
+}
+
 .heading {
     color: rebeccapurple;
   }
